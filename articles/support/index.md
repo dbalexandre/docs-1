@@ -24,8 +24,8 @@ Ticket response times will vary based on your support plan (shown below).  Note 
       <th></th>
       <th> Developer Support Plan </th>
       <th> Standard Support Plan (legacy**) </th>
-      <th> Platinum Support Plan </th>
-      <th> Premiere Support Plan</th>
+      <th> Enterprise Support Plan </th>
+      <th> Premier Support Plan</th>
     </tr>
   </thead>
   <tbody>
